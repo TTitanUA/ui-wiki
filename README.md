@@ -1,2 +1,2 @@
-# ui-wiki
-Multilingual UI pattern wiki with accessibility guidance, visual examples, search, filters, and MCP-ready data for AI agents.
+# UI Wiki
+An open-source, multilingual UI pattern wiki for web, mobile, and desktop interfaces, with structured component knowledge, accessibility guidance, visual examples, search, filtering, and MCP-ready data for AI agents.
